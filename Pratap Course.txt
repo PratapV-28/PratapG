@@ -1,0 +1,3 @@
+AWS- EC2, IAM, VPC, ALB, NLB, Route53, RDS, Cloud Watch, Cloud Trail, Auto scaling.
+
+DevOps- Git, Github, Maven, Jenkins, SonarQube, Jfrog, Docker, Kubernetes, Ansible, Tomcat Application server
